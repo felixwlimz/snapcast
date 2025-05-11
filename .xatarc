@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Felix-Winston-s-workspace-h52k5v.ap-southeast-2.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
